@@ -1,6 +1,6 @@
 {
   "name": "react-stencil",
-  "homepage": "",
+  "homepage": "https://happydolphin111.github.io/FinalPortfolioAnon/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -9,6 +9,8 @@
     "react-scripts": "5.0.1"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
