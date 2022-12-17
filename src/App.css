@@ -1,11 +1,6 @@
 .App {
   text-align: center;
-  background-image: linear-gradient(
-    white,
-    white,
-    white,
-    rgba(255, 31, 151, 0.091)
-  );
+  background-image: linear-gradient(white, white, rgba(255, 31, 151, 0.09));
 }
 
 .App-logo {
@@ -74,6 +69,8 @@
 
 .menuinfo {
   text-align: right;
+  display: flex;
+  flex-direction: row;
   margin-right: 2vw;
 }
 
@@ -144,7 +141,7 @@
   width: 50%;
 }
 
-.Personas {
+.PersonasCard {
   width: 50%;
 }
 
@@ -187,11 +184,18 @@
 
 .projBreakdown {
   width: 20vw;
+  display: flex;
+  flex-direction: column;
+  padding: 2vw;
+  justify-content: space-evenly;
+  font-size: 1.2vw;
+  font-weight: 500;
 }
 
 .projScreenshot {
   border-width: 3px;
   border-color: black;
+  padding-right: 0.5vw;
 }
 
 .info {
@@ -200,6 +204,7 @@
   text-align: left;
   padding-right: 5vw;
   font-weight: 500;
+  font-size: 1.4vw;
 }
 
 .personalInfo {
@@ -225,6 +230,9 @@
   font-size: 20;
   margin-top: 4vw;
   background-color: rgba(57, 38, 49, 0.17);
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
 }
 
 /* Bouncing Arrow */
@@ -264,4 +272,22 @@
   100% {
     margin-top: 0;
   }
+}
+
+.Explore {
+  margin: 1vw;
+  background-color: transparent;
+  border: 0;
+  font-weight: 800;
+  font-size: 1.5vw;
+  transform: Uppercase;
+  color: white;
+  text-decoration: underline;
+  margin-bottom: 3vw;
+}
+
+a {
+  color: white;
+  text-transform: lowercase;
+  font-weight: 500;
 }
