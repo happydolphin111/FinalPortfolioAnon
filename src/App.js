@@ -145,7 +145,7 @@ function App() {
       </div>
 
       <div className="personalChild2">
-      <img src='/myHeart.png' alt="Heart Picture" width='300vw'/>
+      <img src='myHeart.png' alt="Heart Picture" width='300vw'/>
       </div>
 
 
@@ -178,7 +178,7 @@ function App() {
                </div>
 
               <div className='projScreenshot'> 
-              <img src="assets/images/development.png" alt="Development Screenshot" width='500vw'/> 
+              <img src="development.png" alt="Development Screenshot" width='500vw'/> 
               </div>
 
             </div>
@@ -197,7 +197,7 @@ function App() {
           <div className='projectInfo'>
             <div className='projBreakdown'> Designed an application for JAMBLE, an emerging startup focused on sustainable practices related to clothing. this application works as a social media for selling and buying second hand clothes.
             <button className="Explore" onClick={scrollJamble}>EXPLORE MORE </button></div>
-            <div className='projScreenshot'> <img src="assets/images/iterative.png" alt="Iterative Screenshot" width='300vw'/></div>
+            <div className='projScreenshot'> <img src="iterative.png" alt="Iterative Screenshot" width='300vw'/></div>
           </div>
 
           </div>
@@ -219,7 +219,7 @@ function App() {
           <div className='projectInfo'>
             <div className='projBreakdown'> Diagnostico Maipu's online interface was lacking some key components for the user's experience, so I proposed a new responsive design for it. 
             <button className="Explore" onClick={scrollResponsive}>EXPLORE MORE </button></div>
-            <div className='projScreenshot'> <img src='assets/images/responsive.png' alt="Responsive Redesign Screenshot" width='420vw'/></div>
+            <div className='projScreenshot'> <img src='responsive.png' alt="Responsive Redesign Screenshot" width='420vw'/></div>
           </div>
 
           </div>
@@ -239,7 +239,7 @@ function App() {
             <div className='projBreakdown'> I observed real users interact with a public interface (a pool table) and
             interviewing them about it. From there, used the information collected to build personas and storyboards.
             <button className="Explore" onClick={scrollPersonas}>EXPLORE MORE </button></div>
-            <div className='projScreenshot'> <img src='assets/images/personas.png' alt="Personas and Storyboarding Screenshot" width='400vw'/></div>
+            <div className='projScreenshot'> <img src='personas.png' alt="Personas and Storyboarding Screenshot" width='400vw'/></div>
           </div>
 
           </div>
@@ -387,9 +387,9 @@ function App() {
             </div>
             
             <div className="responsiveEvidence">
-            <img src='assets/images/responsive.png' alt=" Original" width='500vw'/>
+            <img src='responsive.png' alt=" Original" width='500vw'/>
             <div className="vs"> VS. </div>
-            <img src='assets/images/newMaipu.png' alt=" Theirs" width='500vw'/>
+            <img src='newMaipu.png' alt=" Theirs" width='500vw'/>
             </div>
             <a href="https://www.diagnosticomaipu.com">Link to new page!</a>
     
@@ -525,8 +525,8 @@ function App() {
         CONNECT WITH ME
       
       <div className="elementFooter">
-      <img src='assets/github_icon.png' alt="Github Icon" width='30vw'/>
-      <img src='assets/email_icon.png' alt="Email Icon" width='30vw'/>
+      <img src='github_icon.png' alt="Github Icon" width='30vw'/>
+      <img src='email_icon.png' alt="Email Icon" width='30vw'/>
       </div>
       <div className="elementFooter">
         Made With Love in Providence
