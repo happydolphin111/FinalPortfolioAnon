@@ -72,7 +72,7 @@ function App() {
         </div>
 
         <div className="menuPic"> 
-        <img src='/brain.png' height="100px" alt="Brain Pic" />
+        <img src='./brain.png' height="100px" alt="Brain Pic" />
         </div>
         
         <div className='menuinfo'>
