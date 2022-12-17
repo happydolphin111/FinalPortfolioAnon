@@ -1,0 +1,146 @@
+.test {
+  color: red;
+}
+
+.Personas {
+  background-color: white;
+  margin: 1vw;
+  padding-top: 3vw;
+  padding-bottom: 3vw;
+  margin-bottom: 2vw;
+  border-width: 5px;
+  border-style: groove;
+  border-color: rgb(255, 31, 150);
+}
+
+.PageHeader {
+  text-align: center;
+  font-size: 5vw;
+  color: rgb(255, 31, 150);
+  text-transform: uppercase;
+  font-weight: 900;
+  margin-bottom: 2vw;
+}
+
+.Description {
+  display: flex;
+  flex-direction: column;
+  text-align: left;
+  margin-top: 2vw;
+}
+
+.DescriptionHeader {
+  font-weight: 800;
+  text-align: left;
+  margin-left: 7vw;
+  font-size: 2vw;
+  padding-bottom: 1vw;
+}
+
+.DescriptionText {
+  margin-left: 8vw;
+  margin-right: 7vw;
+  padding-right: 7vw;
+  padding-bottom: 2vw;
+  font-weight: 600;
+  font-size: 1.5vw;
+}
+
+.responsiveEvidence {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  text-align: center;
+  padding: 1.5vw;
+}
+
+/* My App */
+
+/* Menu Bar */
+.menubar {
+  text-align: left;
+  font-weight: 800;
+  font-size: 20;
+
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  height: 5.2vw;
+}
+
+.mininame {
+  padding: 2vw;
+  text-align: left;
+  color: rgb(255, 31, 150);
+}
+
+.ProjButton {
+  background-color: transparent;
+  border: 0;
+  font-weight: 800;
+  font-size: 30;
+  transform: Uppercase;
+  height: 5.2vw;
+  margin-right: 0vw;
+  width: 7vw;
+}
+
+.MeButton {
+  background-color: transparent;
+  border: 0;
+  font-weight: 800;
+  font-size: 30;
+  transform: Uppercase;
+  height: 5.2vw;
+  padding-left: 1.5vw;
+  padding-right: 1.5vw;
+  margin: 0;
+  width: 7vw;
+}
+
+.menuinfo {
+  text-align: right;
+  display: flex;
+  flex-direction: row;
+  margin-right: 2vw;
+}
+
+.main {
+  margin-top: 17vw;
+  margin-bottom: 17vw;
+}
+
+.MyName {
+  font-size: 100px;
+  margin: 5vw;
+  margin-bottom: 1vw;
+  font-weight: 700;
+}
+
+.menuPic {
+  margin-left: 14vw;
+}
+
+.responsiveEvidence {
+  text-align: center;
+}
+
+.menubar2 {
+  flex-direction: row;
+  align-items: center;
+}
+
+.footerPage {
+  text-align: center;
+  margin-top: 3vw;
+  padding-left: 2vw;
+  margin-bottom: 3vw;
+  background-color: rgb(255, 31, 150);
+  font-size: 2vw;
+}
+
+.vs {
+  padding: 1vw;
+  font-weight: 900;
+  font-size: 2vw;
+}
