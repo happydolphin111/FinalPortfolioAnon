@@ -311,7 +311,7 @@ function App() {
         <div className='footerPage'> 
         <a href='https://happydolphin111.github.io/PersonasAndStoryboarding/'> View the Project! </a>
        </div>
-        //<iframe src="https://happydolphin111.github.io/PersonasAndStoryboarding/" width='1000vw' height='700vw'  ></iframe>
+  
         
        
 
@@ -375,7 +375,7 @@ function App() {
             <div className='footerPage'> 
       <a href='https://happydolphin111.github.io/-ResponsiveRedesign/'> View the Project! </a>
     </div>
-            //<iframe src="https://happydolphin111.github.io/-ResponsiveRedesign/" width='1200vw' height='700vw'  ></iframe>
+            
     
     
            
@@ -456,7 +456,7 @@ function App() {
       <a href='https://cs1300-iterative-design-7ne.pages.dev'> View the Project! </a>
     </div>
             
-            //<iframe src="https://cs1300-iterative-design-7ne.pages.dev" width='1000vw' height='700vw'  ></iframe>
+    
     
 
          
@@ -514,7 +514,7 @@ function App() {
       <a href='https://happydolphin111.github.io/DevelopmentReact/'> View the Project! </a>
     </div>
 
-    //<iframe src="https://happydolphin111.github.io/DevelopmentReact/" width='100%' height='600vw' ></iframe>
+ 
 
 
 
