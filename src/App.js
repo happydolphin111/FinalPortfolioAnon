@@ -524,11 +524,7 @@ function App() {
     <div className="contact">
         CONNECT WITH ME
       
-      <div className="elementFooter">
-      <img src='github_icon.png' width='30vw' alt="Github Icon" />
-      <img src='email_icon.png' width='30vw' alt="Email Icon" />
-   
-      </div>
+      
       <div className="elementFooter">
         Made With Love in Providence
       </div>
