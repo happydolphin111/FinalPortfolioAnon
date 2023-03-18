@@ -68,7 +68,7 @@ function App() {
 
       <div className="menubar" ref={ref3}> 
         <div className='mininame'>
-          my name
+          sofía vnc
         </div>
 
         <div className="menuPic"> 
@@ -109,7 +109,7 @@ function App() {
 
       <div className="MyName"> 
         <span> hey! </span>
-        <span className="sofia"> XXX </span> 
+        <span className="sofia"> sofía </span> 
         <span> here </span>
       </div>
       
@@ -309,9 +309,9 @@ function App() {
 
         <div className="DescriptionHeader"> Take A Look: </div>
         <div className='footerPage'> 
-        <a href='https://happydolphin111.github.io/PersonasAndStoryboarding/'> View the whole page! </a>
+        <a href='https://happydolphin111.github.io/PersonasAndStoryboarding/'> View the Project! </a>
        </div>
-        <iframe src="https://happydolphin111.github.io/PersonasAndStoryboarding/" width='1000vw' height='700vw'  ></iframe>
+        //<iframe src="https://happydolphin111.github.io/PersonasAndStoryboarding/" width='1000vw' height='700vw'  ></iframe>
         
        
 
@@ -373,9 +373,9 @@ function App() {
             
             <div className="DescriptionHeader"> Take A Look: </div>
             <div className='footerPage'> 
-      <a href='https://happydolphin111.github.io/-ResponsiveRedesign/'> View the whole page! </a>
+      <a href='https://happydolphin111.github.io/-ResponsiveRedesign/'> View the Project! </a>
     </div>
-            <iframe src="https://happydolphin111.github.io/-ResponsiveRedesign/" width='1200vw' height='700vw'  ></iframe>
+            //<iframe src="https://happydolphin111.github.io/-ResponsiveRedesign/" width='1200vw' height='700vw'  ></iframe>
     
     
            
@@ -453,10 +453,10 @@ function App() {
 
             <div className="DescriptionHeader"> Take A Look: </div>
             <div className='footerPage'> 
-      <a href='https://cs1300-iterative-design-7ne.pages.dev'> View the whole page! </a>
+      <a href='https://cs1300-iterative-design-7ne.pages.dev'> View the Project! </a>
     </div>
             
-            <iframe src="https://cs1300-iterative-design-7ne.pages.dev" width='1000vw' height='700vw'  ></iframe>
+            //<iframe src="https://cs1300-iterative-design-7ne.pages.dev" width='1000vw' height='700vw'  ></iframe>
     
 
          
@@ -511,10 +511,10 @@ function App() {
     
     <div className="DescriptionHeader"> Take A Look: </div>
     <div className='footerPage'> 
-      <a href='https://happydolphin111.github.io/DevelopmentReact/'> View the whole page! </a>
+      <a href='https://happydolphin111.github.io/DevelopmentReact/'> View the Project! </a>
     </div>
 
-    <iframe src="https://happydolphin111.github.io/DevelopmentReact/" width='100%' height='600vw' ></iframe>
+    //<iframe src="https://happydolphin111.github.io/DevelopmentReact/" width='100%' height='600vw' ></iframe>
 
 
 
